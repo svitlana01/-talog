@@ -1,0 +1,12 @@
+
+username: Sveta
+e-mail: sv@a.ua
+password: 123
+
+superuser: admin
+e-mail: admin@a.ua
+password: 123
+
+username: Svet2
+e-mail: svet2@a.ua
+password: 123
